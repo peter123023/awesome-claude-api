@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub Stars](https://img.shields.io/github/stars/your-repo/awesome-claude-api)
-![GitHub License](https://img.shields.io/github/license/your-repo/awesome-claude-api?color=blue)
+![GitHub License](https://img.shields.io/github/license/peter123023/awesome-claude-api?color=blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-2026--04--29-brightgreen)
 
 精心收集和整理的可靠Claude中转API资源列表，帮助开发者快速找到稳定、高性价比的Claude API服务。所有信息均来自官方网站，确保时效性和准确性。
