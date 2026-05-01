@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub Stars](https://img.shields.io/github/stars/your-repo/awesome-claude-api)
 ![GitHub License](https://img.shields.io/github/license/peter123023/awesome-claude-api?color=blue)
-![Last Updated](https://img.shields.io/badge/last%20updated-2026--04--29-brightgreen)
+![Last Updated](https://img.shields.io/badge/last%20updated-2026--05--01-brightgreen)
 
 精心收集和整理的可靠Claude中转API资源列表，帮助开发者快速找到稳定、高性价比的Claude API服务。所有信息均来自官方网站，确保时效性和准确性。
 
@@ -40,6 +40,7 @@
 | YesCode | [https://co.yes.vg/](https://co.yes.vg/) | • 免费额度：每月1M tokens<br>• 付费套餐：具体价格见官方定价页面<br>• 统一账单管理，支持多平台计费 | • 性能优异，平均延迟仅38ms<br>• 自动故障转移功能，服务稳定性高<br>• 支持Claude Code、Codex、Gemini等多模型路由<br>• 提供团队密钥管理和实时消费统计<br>• SOC 2 Type II认证，安全性高 | `高稳定` `低延迟` `多模型支持` `团队友好` |
 | AICoding | [https://aicoding.sh/](https://aicoding.sh/) | • 新用户福利：加入社区立得$5免费额度<br>• 具体定价方案可在登录后查看 | • 支持OpenClaw、VSCode等主流IDE无缝集成<br>• 高质量账号池动态调度，智能切换避免封号<br>• 一键安装无需配置，即开即用<br>• 已有10000+团队使用，服务稳定可靠 | `IDE集成友好` `防封号` `易部署` `新用户福利` |
 | EasyRouter | [https://easyrouter.io/](https://easyrouter.io/) | • 无订阅制，额度抵扣算力，用多少扣多少<br>• 五月全场Token消耗8.5折，DeepSeek-v4-Pro享2.5折特惠<br>• 多档额度套餐可选：$20/$100/$500/$1500 | • 傅盛团队出品，背景实力雄厚<br>• 统一OpenAI兼容接口，一行代码切换，零迁移成本<br>• 支持40+顶级大模型，全面覆盖Claude全系列模型<br>• 全球多节点部署，智能路由，P99延迟低于200ms<br>• 99.9%可用性SLA保障，自动故障转移与负载均衡 | `全模型支持` `低延迟` `高稳定` `大厂背景` `SDK兼容好` `新用户优惠` |
+| B.AI | [https://b.ai/](https://b.ai/) | • 一个 API Key 即可调用 Claude + GPT + Gemini + 国产大模型全系列<br>• 支持区块链地址登录，纯匿名支付（兼容邮箱/Visa/Master/Apple Pay）<br>• 官方 API 直连，零篡改，价格全网最低 | • 孙宇晨（Justin Sun）团队推出的AI模型聚合平台<br>• 官方公告：[https://x.com/justinsuntron/status/2050104947342299208](https://x.com/justinsuntron/status/2050104947342299208)<br>• BAIClaw 上线"孙哥大脑"功能，支持用孙哥思维交易加密货币 | `新上线` `孙宇晨团队` `全模型支持` `匿名支付` `加密友好` |
 
 ## 🛠️ 检测工具
 
