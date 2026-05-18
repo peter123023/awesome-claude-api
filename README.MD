@@ -68,3 +68,7 @@
 ---
 
 ⭐ 如果这个项目对你有帮助，欢迎Star支持！
+
+## ⭐ Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=peter123023/awesome-claude-api&type=Date)](https://star-history.com/#peter123023/awesome-claude-api&Date)
