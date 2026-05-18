@@ -1,7 +1,7 @@
 # Awesome Claude API 中转资源汇总
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![GitHub Stars](https://img.shields.io/github/stars/your-repo/awesome-claude-api)
+![GitHub Stars](https://img.shields.io/github/stars/peter123023/awesome-claude-api)
 ![GitHub License](https://img.shields.io/github/license/peter123023/awesome-claude-api?color=blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-2026--05--01-brightgreen)
 
