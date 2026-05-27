@@ -42,6 +42,7 @@
 | EasyRouter | [https://easyrouter.io/](https://easyrouter.io/) | • 无订阅制，额度抵扣算力，用多少扣多少<br>• 五月全场Token消耗8.5折，DeepSeek-v4-Pro享2.5折特惠<br>• 多档额度套餐可选：$20/$100/$500/$1500 | • 傅盛团队出品，背景实力雄厚<br>• 统一OpenAI兼容接口，一行代码切换，零迁移成本<br>• 支持40+顶级大模型，全面覆盖Claude全系列模型<br>• 全球多节点部署，智能路由，P99延迟低于200ms<br>• 99.9%可用性SLA保障，自动故障转移与负载均衡 | `全模型支持` `低延迟` `高稳定` `大厂背景` `SDK兼容好` `新用户优惠` |
 | B.AI | [https://b.ai/](https://b.ai/) | • 一个 API Key 即可调用 Claude + GPT + Gemini + 国产大模型全系列<br>• 支持区块链地址登录，纯匿名支付（兼容邮箱/Visa/Master/Apple Pay）<br>• 官方 API 直连，零篡改，价格全网最低 | • 孙宇晨（Justin Sun）团队推出的AI模型聚合平台<br>• 官方公告：[孙哥Twitter](https://x.com/justinsuntron/status/2050104947342299208)<br>• BAIClaw 上线"孙哥大脑"功能，支持用孙哥思维交易加密货币 | `新上线` `孙宇晨团队` `全模型支持` `匿名支付` `加密友好` |
 | OfoxAI | [https://ofox.ai/](https://ofox.ai/) | • 无订阅制，按量付费，统一信用点抵扣所有模型费用<br>• 价格公开透明，不同模型定价不同<br>• 新用户注册可获得免费试用额度<br>• 支持微信、支付宝、信用卡付款 | • 一个 API Key 调用 100+ 大模型（GPT-5.4、Claude Opus 4.6、Gemini 3.1 等）<br>• 原生支持 OpenAI、Anthropic、Gemini 三种 SDK 协议，零代码适配<br>• 香港直连线路，国内访问延迟 100-300ms，无需代理<br>• 多上游智能路由，99.9% 可用性 SLA<br>• 支持团队协作、共享账单、API 用量管理等功能 | `国内直连` `多模型支持` `低延迟` `SDK兼容好` `团队友好` |
+| CoderPlan | [https://coderplan.ai](https://coderplan.ai) | • 按量付费，无月度绑定，充值档位：¥30/¥100/¥300/¥500（大额赠余额）<br>• Claude Opus 4.7 约1.2折（省88%），GPT系列约0.7折（省93%）<br>• 新用户注册赠送免费体验余额<br>• 支持支付宝、微信等国内常用支付方式 | • 支持Claude全系列（Opus 4.7/4.6、Sonnet 4.6），以及GPT、Gemini等主流模型<br>• 深度集成Claude Code、Cursor、Codex CLI、Gemini CLI等AI编程工具<br>• 智能缓存复用机制，显著降低重复调用成本<br>• 透明计费，每次调用详细记录模型、Token、缓存节省及消耗金额<br>• 兼容OpenAI API格式，零代码适配<br>• 提供系统运行状态页，服务稳定性可观测 | `价格优惠` `国内支付` `SDK兼容好` `多模型支持` `缓存省钱` |
 
 ## 🛠️ 检测工具
 
