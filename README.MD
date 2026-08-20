@@ -9,24 +9,24 @@
 
 ## 📋 目录
 
-- [项目介绍](#🚀-项目介绍)
-- [使用说明](#📝-使用说明)
-- [API列表](#🔌-api列表)
-- [检测工具](#🛠️-检测工具)
-- [贡献指南](#🤝-贡献指南)
-- [免责声明](#⚠️-免责声明)
+- [项目介绍](#intro)
+- [使用说明](#usage)
+- [API列表](#api-list)
+- [检测工具](#tools)
+- [贡献指南](#contributing)
+- [免责声明](#disclaimer)
 
-## 🚀 项目介绍
+## 🚀 项目介绍 <a id="intro"></a>
 
 本项目致力于收集全球范围内稳定可靠的Claude中转API服务，为开发者提供一个权威、更新及时的资源参考。所有收录的API服务均经过初步筛选，确保具备基本的可用性和稳定性。
 
-## 📝 使用说明
+## 📝 使用说明 <a id="usage"></a>
 
 1. 所有服务均为第三方提供，使用前请仔细阅读各服务商的官方文档和服务条款
 2. 建议先试用免费额度或小额套餐，确认服务符合需求后再进行长期付费
 3. 价格和政策可能会有变动，请以服务商官方网站最新信息为准
 
-## 🔌 API列表
+## 🔌 API列表 <a id="api-list"></a>
 
 | 服务商 | 网站地址 | 费用结构 | 综合评价 | 标签 |
 |-------|---------|---------|----------|------|
@@ -45,7 +45,7 @@
 | FerryAPI<br>月访问量: 0 (2026-07)     | [ferryapi.io](https://www.ferryapi.io/) | • 预付费 USD 余额，按实际调用量扣费，无固定月费或订阅<br>• 新用户注册赠送 **$5 体验金**<br>• 邀请首笔付费用户可获 **1:1 同额赠送**<br>• 具体模型定价见[官方定价页](https://www.ferryapi.io/pricing) | • 低成本 OpenAI 兼容型 AI API 网关，一行代码迁移现有 OpenAI SDK 应用<br>• 聚合 9 大模型厂商：Claude、OpenAI、Gemini、DeepSeek、Qwen、Zhipu AI（智谱）、Kimi、MiMo、Doubao（豆包），一个 API Key 全部接入<br>• 提供商账户池机制，多上游自动调度<br>• 适用于客服、翻译、内容生成、摘要、分类和自动化等场景<br>• 官方文档完善：[ferryapi.io/docs](https://www.ferryapi.io/docs) | `Claude支持` `多模型聚合` `低成本` `新用户福利` `邀请返利` |
 | TeamoRouter<br>月访问量: 83.9K (2026-07)     | [teamorouter.com](https://teamorouter.com/zh) | • 官转不降智，浮动费率低至官价 1-2 折（用量越大越省）<br>• 支付宝直充，按量计费，用多少充多少，无需海外银行卡<br>• 失败请求不扣费，起充无门槛 | • 支持 Anthropic（Claude Mythos 5 / Opus 4.8 / Opus 4.7 / Sonnet 4.6）、OpenAI GPT 系列（Codex / Responses 兼容），以及 Gemini、DeepSeek 等主流模型<br>• Prompt Cache 完整透传：cache read 0.1× / write 1.25× 计费，比例与 Anthropic 官方一致，命中率 >99%，对 Claude Code、Codex 等高频长上下文场景成本差距明显<br>• 双协议兼容：Anthropic Messages（Claude Code）+ OpenAI /v1/responses（Codex），一个 API Key 通吃，改 base_url 现有代码即刻运行<br>• 国内直连：无需科学上网，多线路备份稳定不掉线<br>• 客户端一键接入：免手动配 API Key / Base URL / 代理，自动完成 Claude Code / Codex 配置<br>• 文档教程：[teamorouter.com/zh/blogs](https://teamorouter.com/zh/blogs) | `多模型聚合` `双协议兼容` `低至1-2折` `缓存透传` `国内直连` `按量付费` `Claude Code支持` `Codex支持` `一键接入` |
 
-## 🛠️ 检测工具
+## 🛠️ 检测工具 <a id="tools"></a>
 
 | 工具名称 | 地址 | 功能说明 | 特点 |
 |---------|------|----------|------|
@@ -53,7 +53,7 @@
 | Ofox模型验真<br>月访问量: 205.0K (2026-07)  | [ofox.ai/verify](https://ofox.ai/verify/) | Ofox旗下模型验真工具，输入API接口15秒验证中转站模型是否真实 | • 研究显示45.83%的中转站存在模型替换<br>• 输入API接口，15秒验明模型真身<br>• 由OfoxAI团队提供，香港直连线路 |
 | LLM大模型照妖镜<br>月访问量: 11.3K (2026-07)  | [llmtest.cn](https://llmtest.cn/) | 从多个技术维度一键检测API中转站的Claude Opus/Sonnet/GPT/Gemini等高级模型是否真实，拒绝套壳骗局 | • 基于GitHub开源项目创建，纯前端处理逻辑<br>• 零日志隐私承诺，API Key测完即焚，服务器不留存<br>• 多维交叉验证：返回协议、响应结构、知识问答、身份一致性、思维链痕迹、签名指纹<br>• 真实率评分：80%+高可信 / 50-79%存疑 / 50%以下高风险<br>• 国内可直连，无需科学上网 |
 
-## 🤝 贡献指南
+## 🤝 贡献指南 <a id="contributing"></a>
 
 欢迎提交PR补充更多优质的Claude中转API资源，提交时请确保：
 
@@ -64,7 +64,7 @@
 
 提交前请先检查是否已有相同的服务商收录，避免重复提交。
 
-## ⚠️ 免责声明
+## ⚠️ 免责声明 <a id="disclaimer"></a>
 
 本项目仅做资源收集和整理，不对任何第三方服务的质量、安全性、可用性做任何担保。使用第三方服务时请自行承担风险，本项目维护者不承担任何使用相关的责任。
 
