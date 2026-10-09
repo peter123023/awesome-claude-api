@@ -1,2 +1,5 @@
 # WorkBuddy 项目数据（含工作记忆，勿提交到公开仓库）
 .workbuddy/
+
+# 访问量数据源（本地维护，README 已渲染完整，不进仓库）
+data/
