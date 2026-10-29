@@ -64,7 +64,7 @@
 | [CCTest](https://cctest.ai/zh)<br><sub>cctest.ai/zh<br>月访问量: 42.6K (2026-08) → 36.5K (2026-09) ▼跌 14.5%</sub> | 业界专业的Claude API检测平台，可检测模型真实性和Token消费合理性，被数十家头部中转服务商信赖 | • 黑盒检测模式，不会存储用户API Key，安全可靠<br>• 支持Claude Sonnet 4.6、Opus 4.6、Opus 4.7等主流版本<br>• 11轮专业测试，可检测Token使用倍率是否异常、消费是否合理<br>• 测试成本透明，单次检测预计消耗约$0.3 |
 | [Ofox模型验真](https://ofox.ai/verify/)<br><sub>ofox.ai/verify<br>月访问量: 221.1K (2026-08) → 212.7K (2026-09) ▼跌 3.8%</sub> | Ofox旗下模型验真工具，输入API接口15秒验证中转站模型是否真实 | • 研究显示45.83%的中转站存在模型替换<br>• 输入API接口，15秒验明模型真身<br>• 由OfoxAI团队提供，香港直连线路 |
 | [LLM大模型照妖镜](https://llmtest.cn/)<br><sub>llmtest.cn<br>月访问量: 834 (2026-08) → 3.4K (2026-09) ▲涨 310.1%</sub> | 从多个技术维度一键检测API中转站的Claude Opus/Sonnet/GPT/Gemini等高级模型是否真实，拒绝套壳骗局 | • 基于GitHub开源项目创建，纯前端处理逻辑<br>• 零日志隐私承诺，API Key测完即焚，服务器不留存<br>• 多维交叉验证：返回协议、响应结构、知识问答、身份一致性、思维链痕迹、签名指纹<br>• 真实率评分：80%+高可信 / 50-79%存疑 / 50%以下高风险<br>• 国内可直连，无需科学上网 |
-| [awesome-claude-code-codex-relay](https://github.com/zhaoshengxiong/awesome-claude-code-codex-relay)<br><sub>github.com/zhaoshengxiong<br>月访问量: —（GitHub 仓库）</sub> | Claude Code / Codex 中转站导航，GitHub Actions 每 6 小时探测各家 API 端点可用性，原始数据公开在仓库内 | • 20 家中转站，每条标来源与核实日期<br>• 探测项：网关应答、端点有效、TTFB P50/P95<br>• 不打星、不排名、不比价<br>• 由 TeamoRouter 团队维护，README 开头有利益声明 |
+| [awesome-claude-code-codex-relay](https://github.com/zhaoshengxiong/awesome-claude-code-codex-relay)<br><sub>github.com/zhaoshengxiong<br>月访问量: —（GitHub 仓库）</sub> | Claude Code / Codex 中转站导航，GitHub Actions 每 6 小时探测各家 API 端点可用性，原始数据公开在仓库内 | • 每家中转站标来源与核实日期<br>• 探测项：网关应答、端点有效、TTFB P50/P95<br>• 不打星、不排名、不比价<br>• 由 TeamoRouter 团队维护，README 开头有利益声明 |
 
 ## 🤝 贡献指南 <a id="contributing"></a>
 
