@@ -21,7 +21,7 @@ This edition compares monthly visits for 2026-08 vs 2026-09 across 22 channels (
 
 ## 📋 Table of Contents
 
-[Traffic Overview](#traffic-note) | [Introduction](#intro) | [Usage Notes](#usage) | [API List](#api-list) | [Detection Tools](#tools) | [Contributing](#contributing) | [Disclaimer](#disclaimer)
+[Traffic Overview](#traffic-note) | [Introduction](#intro) | [Usage Notes](#usage) | [API List](#api-list) | [Detection Tools](#tools) | [Contributing](#contributing) | [Disclaimer](#disclaimer) | [Related Pages](#related)
 
 ## 🚀 Introduction <a id="intro"></a>
 
@@ -79,6 +79,13 @@ Before submitting, check whether the same provider is already listed to avoid du
 ## ⚠️ Disclaimer <a id="disclaimer"></a>
 
 This project only collects and organizes resources, and provides no warranty for the quality, security, or availability of any third-party service. Use third-party services at your own risk; the maintainers of this project assume no liability for any usage-related issues.
+
+## 🔗 Related Pages <a id="related"></a>
+
+[Panovast · Claude & OpenAI API Relay Providers](https://panovast.com/claude-api-relay) is a third-party visual ranking page compiled from this project: sort by monthly visits or MoM change, expand each provider's pricing and review, view traffic trend charts, and switch between English and Chinese — useful for quick side-by-side comparison.
+
+- Its content is based on this project's 2026-09 snapshot and may lag behind this list; always check each provider's own website for current prices, model availability and terms of service
+- The page is maintained by a third party and is not endorsed by this project
 
 ---
 

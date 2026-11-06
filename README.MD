@@ -21,7 +21,7 @@
 
 ## 📋 目录
 
-[访问量数据情况](#traffic-note) | [项目介绍](#intro) | [使用说明](#usage) | [API列表](#api-list) | [检测工具](#tools) | [贡献指南](#contributing) | [免责声明](#disclaimer)
+[访问量数据情况](#traffic-note) | [项目介绍](#intro) | [使用说明](#usage) | [API列表](#api-list) | [检测工具](#tools) | [贡献指南](#contributing) | [免责声明](#disclaimer) | [相关页面](#related)
 
 ## 🚀 项目介绍 <a id="intro"></a>
 
@@ -79,6 +79,13 @@
 ## ⚠️ 免责声明 <a id="disclaimer"></a>
 
 本项目仅做资源收集和整理，不对任何第三方服务的质量、安全性、可用性做任何担保。使用第三方服务时请自行承担风险，本项目维护者不承担任何使用相关的责任。
+
+## 🔗 相关页面 <a id="related"></a>
+
+[Panovast · Claude & OpenAI API 中转服务商榜单](https://panovast.com/claude-api-relay) 是基于本项目整理的第三方可视化页面：可按月访问量 / 环比排序、逐条展开费用结构与综合评价、查看访问量趋势图，并支持中英文切换，适合快速横向比较。
+
+- 榜单内容取自本项目 2026-09 快照，更新可能滞后于本列表；价格、模型可用性与服务条款请以各服务商官网为准
+- 该页面由第三方维护，本项目不对其内容做背书
 
 ---
 
