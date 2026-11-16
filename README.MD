@@ -65,6 +65,7 @@
 | [CCTest](https://cctest.ai/zh)<br><sub>cctest.ai/zh<br>月访问量: 42.6K (2026-08) → 36.5K (2026-09) ▼跌 14.5%</sub> | 业界专业的Claude API检测平台，可检测模型真实性和Token消费合理性，被数十家头部中转服务商信赖 | • 黑盒检测模式，不会存储用户API Key，安全可靠<br>• 支持Claude Sonnet 4.6、Opus 4.6、Opus 4.7等主流版本<br>• 11轮专业测试，可检测Token使用倍率是否异常、消费是否合理<br>• 测试成本透明，单次检测预计消耗约$0.3 |
 | [Ofox模型验真](https://ofox.ai/verify/)<br><sub>ofox.ai/verify<br>月访问量: 221.1K (2026-08) → 212.7K (2026-09) ▼跌 3.8%</sub> | Ofox旗下模型验真工具，输入API接口15秒验证中转站模型是否真实 | • 研究显示45.83%的中转站存在模型替换<br>• 输入API接口，15秒验明模型真身<br>• 由OfoxAI团队提供，香港直连线路 |
 | [LLM大模型照妖镜](https://llmtest.cn/)<br><sub>llmtest.cn<br>月访问量: 834 (2026-08) → 3.4K (2026-09) ▲涨 310.1%</sub> | 从多个技术维度一键检测API中转站的Claude Opus/Sonnet/GPT/Gemini等高级模型是否真实，拒绝套壳骗局 | • 基于GitHub开源项目创建，纯前端处理逻辑<br>• 零日志隐私承诺，API Key测完即焚，服务器不留存<br>• 多维交叉验证：返回协议、响应结构、知识问答、身份一致性、思维链痕迹、签名指纹<br>• 真实率评分：80%+高可信 / 50-79%存疑 / 50%以下高风险<br>• 国内可直连，无需科学上网 |
+| [Folkbench](https://folkbench.com/arena?utm_source=github&utm_medium=awesome&utm_campaign=awesome-claude-api)<br><sub>folkbench.com<br>月访问量: 暂无第三方估算</sub> | 公开榜单，按模型对比各中转站近 24 小时可用率、首字延迟和价格；另有降智监控页，展示身份探针一致率、Token 与模型指纹。排序沿用站内规则，含合作档位与运营加分；部分数据为展示样本，页面上有标注。 | • 同源仓库还提供开源桌面端 Folkbench Switch，用于把自定义 Base URL 和 API Key 写入 Claude Code 等工具<br>• 方法说明和只读公开接口见网站方法页 |
 
 ## 🤝 贡献指南 <a id="contributing"></a>
 
