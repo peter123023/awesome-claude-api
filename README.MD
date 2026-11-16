@@ -65,6 +65,7 @@
 | [CCTest](https://cctest.ai/zh)<br><sub>cctest.ai/zh<br>月访问量: 42.6K (2026-08) → 36.5K (2026-09) ▼跌 14.5%</sub> | 业界专业的Claude API检测平台，可检测模型真实性和Token消费合理性，被数十家头部中转服务商信赖 | • 黑盒检测模式，不会存储用户API Key，安全可靠<br>• 支持Claude Sonnet 4.6、Opus 4.6、Opus 4.7等主流版本<br>• 11轮专业测试，可检测Token使用倍率是否异常、消费是否合理<br>• 测试成本透明，单次检测预计消耗约$0.3 |
 | [Ofox模型验真](https://ofox.ai/verify/)<br><sub>ofox.ai/verify<br>月访问量: 221.1K (2026-08) → 212.7K (2026-09) ▼跌 3.8%</sub> | Ofox旗下模型验真工具，输入API接口15秒验证中转站模型是否真实 | • 研究显示45.83%的中转站存在模型替换<br>• 输入API接口，15秒验明模型真身<br>• 由OfoxAI团队提供，香港直连线路 |
 | [LLM大模型照妖镜](https://llmtest.cn/)<br><sub>llmtest.cn<br>月访问量: 834 (2026-08) → 3.4K (2026-09) ▲涨 310.1%</sub> | 从多个技术维度一键检测API中转站的Claude Opus/Sonnet/GPT/Gemini等高级模型是否真实，拒绝套壳骗局 | • 基于GitHub开源项目创建，纯前端处理逻辑<br>• 零日志隐私承诺，API Key测完即焚，服务器不留存<br>• 多维交叉验证：返回协议、响应结构、知识问答、身份一致性、思维链痕迹、签名指纹<br>• 真实率评分：80%+高可信 / 50-79%存疑 / 50%以下高风险<br>• 国内可直连，无需科学上网 |
+| [relay-probe](https://github.com/znbcode/relay-probe)<br><sub>github.com/znbcode/relay-probe<br>月访问量: 暂无第三方估算数据（开源命令行工具）</sub> | 开源命令行工具，对 Claude / GPT 中转站做连通性、流式一致性、重放缓存和用量计数核对，输出可复现的 Markdown / JSON 报告 | • MIT 开源，Python ≥ 3.9，运行时只用标准库，无第三方依赖<br>• 支持 Anthropic Messages、OpenAI Chat Completions、OpenAI Responses 三种协议<br>• 在本机运行，请求只发往被测站点，Key 通过环境变量提供<br>• 重放检测：顺序发送字节完全相同的请求体，比对输出 MD5、耗时和推理 token，识别「秒回缓存答案」<br>• 报告原样列出响应 id、model、usage 等证据，结论可复现，不只凭模型自称下判断 |
 
 ## 🤝 贡献指南 <a id="contributing"></a>
 
